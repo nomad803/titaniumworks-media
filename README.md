@@ -1,6 +1,6 @@
 # Titaniumworks media
 
-Logos and avatars for Titaniumworks and Ti22.
+Logos and avatars for [Titaniumworks](https://titaniumworks.com) and Ti22 — free, private apps at **[titaniumworks.com](https://titaniumworks.com)**.
 
 - `titaniumworks-avatar-1024.png` (1024 × 1024)
 - `titaniumworks-avatar-512.png` (512 × 512)
